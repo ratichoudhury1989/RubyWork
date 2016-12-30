@@ -1,5 +1,0 @@
-gem install watir -v 5.0.0
-gem install watir-webdriver
-gem install selenium-webdriver
-gem install watir-classic
-gem install spreadsheet
